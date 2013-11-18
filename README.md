@@ -11,7 +11,7 @@ terug geeft gebaseerd op die locatie. Het doel is eigenlijk vlug en simpel een w
 op gelijk welke site, door middel van simpele addities. Het is zo makkelijk als een paar script tags toe voegen 
 en een simpele <div> aan te maken.
 
-## Bevat
+# Bevat
 * simpleWeather API
 * geolocation van html5
 * GeolocationandWeather.js
